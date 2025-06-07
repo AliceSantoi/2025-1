@@ -1,19 +1,3 @@
-# 2025-1
-Repositório do laboratório de Estruturas de Dados II
-
-### 👨‍🏫 Professor: _Kennedy Reurison Lopes_
-
-## 📘 Lista de Exercícios – Programação em C/C++
-### Instruções
-Instruções para desenvolvimento dos exercícios:
-+ Clone ou faça um fork deste repositório para o seu GitHub pessoal.
-+ Resolva cada exercício na pasta correspondente, mantendo a organização dos arquivos.
-+ Realize commits frequentes, sempre que houver progresso no desenvolvimento de cada questão. Isso facilita o acompanhamento da sua evolução e o versionamento do código.
-+ Mantenha mensagens de commit claras e objetivas, indicando o que foi feito (ex: Implementa função de ordenação, Corrige bug na verificação de primo, etc).
-+ Envie um e-mail para [kennedy.lopes@ufersa.edu.br] com o assunto: **"Meu Perfil do GitHub"**. No corpo do e-mail, inclua as informações do seu perfil do GitHub e o link para o repositório onde as respostas das questões serão armazenadas.
-+ Lembre-se: esta atividade é **individual** e deve ser realizada de forma independente.
-
-
 ## 🔧 Funções e Modularização
 
 1. **Números Primos em Intervalo**  
@@ -69,14 +53,4 @@ Instruções para desenvolvimento dos exercícios:
 
 ---
 
-## 💡 Extras com Desafio
 
-14. **Cifra de César**  
-    Escreva uma função para criptografar uma mensagem usando a Cifra de César (deslocamento de letras).
-
-15. **Jogo da Forca (Console)**  
-    Desenvolva um jogo simples da forca no terminal, usando vetores e controle de fluxo.
-
----
-
-[contactEmail]: mailto:kennedy.lopes@ufersa.edu.br
